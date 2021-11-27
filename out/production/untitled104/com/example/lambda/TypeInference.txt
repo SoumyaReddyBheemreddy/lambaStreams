@@ -1,0 +1,12 @@
+(List<Trade> trades, PriceSkewer priceSkewer)->{
+/*logic*/
+}
+we can write this as
+   ||
+    V
+(trades,priceSkewer)->{logic}
+public interface Price{
+    public List<Trade> skew(List<Trade> trades, PriceSkewer priceSkewer){
+        //logic
+    }
+}

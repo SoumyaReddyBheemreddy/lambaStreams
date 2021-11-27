@@ -1,0 +1,11 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘
+Q
+java:S1611"6Remove the parentheses around the "employee" parameter(έα–ύÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(έα–ύÿÿÿÿ
+L
+java:S1611"6Remove the parentheses around the "employee" parameter(ε“ΊΎ
+R
+java:S1612"<Replace this lambda with method reference 'String::isEmpty'.(™ΐψ®

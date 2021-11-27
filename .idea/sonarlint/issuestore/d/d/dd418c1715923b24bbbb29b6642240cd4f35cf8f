@@ -1,0 +1,29 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "m2".(âªŞ©üÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "m1".(ÔÃØìÿÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "i" parameter(ÔÃØìÿÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(ÔÃØìÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m1" local variable.(ÔÃØìÿÿÿÿÿ
+B
+java:S1481"'Remove this unused "m2" local variable.(âªŞ©üÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "m2".(¨ÊÚ‚üÿÿÿÿ
+L
+java:S1854"6Remove this useless assignment to local variable "m1".(ì—¥
+E
+java:S1611"/Remove the parentheses around the "i" parameter(ì—¥
+>
+java:S1125"(Remove the unnecessary boolean literals.(ì—¥
+=
+java:S1481"'Remove this unused "m1" local variable.(ì—¥
+B
+java:S1481"'Remove this unused "m2" local variable.(¨ÊÚ‚üÿÿÿÿ
+\
+java:S1854":Remove this useless assignment to local variable "client".(°¤¥€ıÿÿÿÿ8ìÅ¶ÜÔ/
+M
+java:S1481"+Remove this unused "client" local variable.(°¤¥€ıÿÿÿÿ8ïÅ¶ÜÔ/
